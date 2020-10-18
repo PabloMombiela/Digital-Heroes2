@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+    font-size: 40px;
+    background-color: #dedede;
+    border: 3px solid orange;
+    border-radius: 5px;
+}
+
+.creditos {
+    font-size: 40px;
+    background-color: paleturquoise;
+    text-align: center;
+}
